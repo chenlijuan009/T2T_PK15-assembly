@@ -1,6 +1,6 @@
 
 #----------------------------------------------------------------------------------------------------
-# Calulate QC
+# Calulate QV
 source ~/anaconda3/bin/activate 
 conda activate merqury
 
