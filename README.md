@@ -2,7 +2,8 @@
 A gap-free telomere-to-telomere pig genome (~2.6 Gb), including all autosomes and chromosome X.  A combination of PacBio HiFi and ultra-long ONT was emplyed to generate T2T-PK15 genome.
 
 
-Descriptions
+**Descriptions**
+
 1_assembly.sh script for the pig T2T genome assembly 
 
 2_genome_assessment.sh script for annotation
